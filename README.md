@@ -4,7 +4,7 @@
 #Nestle - Sopra Steria
 
 <figure>
-<img src="/img/img_01_elements.png" />
+<img src="/img/img_02_elements.png" />
 </figure>
 
 Ejecutar el modelo usando una API, en su terminal ponga:
